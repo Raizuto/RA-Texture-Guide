@@ -14,4 +14,4 @@ Once you have the texture pack you'd like (and be sure to follow any instruction
 - Place your texture pack within the `cache` folder
 - If you do not have a cache folder, create one.
 
-And then load the ROM with the Mupen64Plus core selected. Finally, enable the option `Quick Menu -> Options ->  Use High-Res textures and Use High-Res Full Alpha Channel`. Reload the content You should now have your texture pack active.
+And then load the ROM with the Mupen64Plus core selected. Finally, enable the option `Quick Menu (F1) -> Options ->  Use High-Res textures and Use High-Res Full Alpha Channel`. Reload the content You should now have your texture pack active.
